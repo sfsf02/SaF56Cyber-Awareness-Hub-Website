@@ -1,0 +1,53 @@
+/*designing the body of my pages*/
+body {background-color: #f8f9fa; 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 20px;
+}
+/*design the navigation */
+.nav{background-color: #2c3e50; 
+    padding: 15px; 
+    margin-bottom: 20px
+
+}
+/*design the main list in the navigation  */
+.main_ul{
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+    display: flex; 
+    gap: 20px;
+}
+/*design the links in the navigation */
+.link_nav{
+    color: white; 
+    text-decoration: none;
+}
+/*design the headr 1 of all pages */
+.main_h{
+    color: #2c3e50; 
+    text-align: center;
+}
+/*design the sections of page index.html */
+.secI{
+    background-color: white; 
+    padding: 30px; 
+    border-radius: 10px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+/*design the footer of all my pages */
+footer{
+    background-color: #2c3e50; 
+    color: white; 
+    padding: 10px; 
+    text-align: center; 
+    margin-top: 20px;
+}
+/*design the sections of rest pages */
+.secT{
+    background-color: white; 
+    padding: 20px; 
+    margin-bottom: 20px; 
+    border-radius: 5px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
